@@ -60,3 +60,6 @@ A custom desktop launcher for Minecraft 1.12.2 with Forge and your mod bundled i
 **Forge installer doesn't open** — Make sure Java is installed and associated with `.jar` files
 
 **Mod not loading in-game** — Confirm Forge profile is selected in the Minecraft Launcher
+---
+## Quick Things!!!
+Im currently working on a MacOS build and Linux So yeah Enjoy!!
